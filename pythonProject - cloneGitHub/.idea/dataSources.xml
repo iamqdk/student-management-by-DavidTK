@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="mainDB" uuid="d49e4e1e-62f4-45ea-9b0d-f47b18e2aff8">
+      <driver-ref>sqlserver.jtds</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.sourceforge.jtds.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:jtds:sqlserver://DESKTOP-TJ10SPJ/mainDatabase;instance=MSSQLSERVER</jdbc-url>
+    </data-source>
+  </component>
+</project>
